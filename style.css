@@ -1,13 +1,13 @@
 h1 {
     color: bisque;
-    background-color: darkblue;
+    background: darkblue;
 }
 
 h2 {
-    background-color: #cd2828;
+    background: #cd2828;
     color: #9ada1b;
 }
 
 section {
-    background-color: antiquewhite;
+    background: antiquewhite;
 }
